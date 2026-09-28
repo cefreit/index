@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Android and Linux
 - 💞️ I’m looking to collaborate on new apps
 - 📫 How to reach me on twitter.com/cefreit
+- 💻 Linux, Android, Windows, Raspbery Pi, Phyton, servers and apps
 
 <!---
 cefreit/cefreit is a ✨ special ✨ repository because its `About me.md` appears on your GitHub profile.
